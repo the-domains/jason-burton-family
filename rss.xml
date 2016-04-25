@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Jason Burton Family]]></title>
         <description><![CDATA[Jason Burton Family]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jason-burton-family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 02:02:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 02:09:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jason-burton-family/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Twice Dead Trees]]></title>
+            <description><![CDATA[<article><h1>Twice Dead Trees</h1><p>This essay is aimed at my generation of Independent Baptist pastors, in case there is any confusion. Parts of it may, and probably do apply to members of any generation, but I freely admit it is written in frustration with those who are called to stand right now where others have passed away or been defeated in battle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f713acf321b10957f87cd2d2cea5e4573fe3a3a5.jpg"></article>]]></description>
+            <link>http://www.lordshipchurches.info/jasons-blog/twice-dead-trees</link>
+            <guid isPermaLink="false">94ee909f-4c1d-4011-91d2-234feb6de90d</guid>
+            <pubDate>Mon, 25 Apr 2016 02:08:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jason's Blog]]></title>
             <description><![CDATA[<article><h1>Jason's Blog</h1><p>The Sunrise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d20b24dfbc105c7bc934c376ca415902efbea737.jpg"></article>]]></description>
