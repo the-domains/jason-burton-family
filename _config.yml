@@ -1,4 +1,4 @@
-name: Jason Burton Family
+name: Jason Burton
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.08523
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040203'
-    - '#73355a'
-    - '#f2544a'
-    - '#f6bb00'
-    - '#550202'
+    - '#47273e'
+    - '#ab313e'
+    - '#f98800'
+    - '#e14920'
+    - '#ffc812'
   brandStrength: 0.125
   lightness: 0.75
   saturation: 0.1875
