@@ -1,6 +1,6 @@
 name: Jason and Amy Burton
 favicon: null
-layout_spectrum: 0.66169
+layout_spectrum: 0.75202
 typography_spectrum: 0.09607
 title: Jason and Amy Burton
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
