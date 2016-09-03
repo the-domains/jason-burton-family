@@ -1,7 +1,18 @@
+layout_spectrum: 0.39195579034276307
+typography_spectrum: 0.35630319034680724
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.5713347783312201
+  lightness: 0.15134930959902704
+  saturation: 0.7573543780017644
+  rhythmicContrast: 0.8724107975140214
 name: Burton Twitter/Blog Posts
 favicon: null
-layout_spectrum: 0.59664
-typography_spectrum: 0.09607
 title: Internet Home of Jason and Amy Burton
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#47273e'
-    - '#ab313e'
-    - '#f98800'
-    - '#e14920'
-    - '#ffc812'
-  brandStrength: 0
-  lightness: 0.25
-  saturation: 0.3125
-  rhythmicContrast: 0.25
 purpose: []
